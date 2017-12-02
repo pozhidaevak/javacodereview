@@ -18,3 +18,27 @@ Utilize this checklist to review Java code, including security, performance, and
 | Make sure the code formatting is applied | Formatting |
 | Use Exceptions rather than Return codes | Exceptions |
 | Don't return Null | Exceptions |
+| Builder then a lot of params in constructor | N/A |
+| Singleton private constructor | N/A |
+| If class controlls memmory null unneadead things | N/A |
+| Don't create unnecessary objects, move to static if possible | N/A |
+| Avoid finalizers | N/A |
+| Equals and hashCode | N/A |
+| Ovverride toString() | N/A |
+| Use @Override | N/A |
+| Minimize class/member accessability | N/A |
+| Composition over inheretance | N/A |
+| Prefer interfaces over abastract classes | N/A |
+| Check params for validity | N/A |
+| Defencive coping | N/A |
+| Return empty collections instead nulls | N/A |
+| Refer to objects by interfaces | N/A |
+|  | N/A |
+|  | N/A |
+|  | N/A |
+|  | N/A |
+|  | N/A |
+|  | N/A |
+
+
+
