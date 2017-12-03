@@ -40,5 +40,8 @@ Utilize this checklist to review Java code, including security, performance, and
 |  | N/A |
 |  | N/A |
 
+Usefull links:
+https://www.java-success.com/30-java-code-review-checklist-items/
+https://dzone.com/articles/java-code-review-checklist
 
 
